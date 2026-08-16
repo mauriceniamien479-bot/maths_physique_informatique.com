@@ -15,7 +15,7 @@ header{
     background-color: darkkhaki;
 }
 center{
-    margin-top:30%;
+    margin-top:40%;
     margin-left: 14%;
     border: 1px solid;
     padding: 2%;
@@ -32,13 +32,14 @@ h3{
     font-family: mv;
     font-size: 40px;
     text-decoration: underline;
+    text-align: center;
 }
 h1{
     border: 3px solid;
     text-align: center;
     box-sizing: border-box;
     width: fit-content;
-    margin: auto;
-    max-width: 100%;
+  
+    
 
 }

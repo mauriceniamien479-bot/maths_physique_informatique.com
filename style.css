@@ -1,7 +1,4 @@
-body{
-    text-align:center;
-   
-}
+
 header{
     display: flex;
     align-items: flex-start;
@@ -14,8 +11,8 @@ header{
     border-radius: 70px;
     background-color: darkkhaki;
 }
- .bvn{
-    margin-top:40%;
+.bvn{
+    margin-top:30%;
     margin-left: 14%;
     border: 1px solid;
     padding: 2%;
@@ -32,14 +29,13 @@ h3{
     font-family: mv;
     font-size: 40px;
     text-decoration: underline;
-    text-align: center;
 }
 h1{
     border: 3px solid;
     text-align: center;
     box-sizing: border-box;
     width: fit-content;
-  
-    
+    margin: auto;
+    max-width: 100%;
 
 }
